@@ -1,17 +1,17 @@
-// import { useState } from 'react'
 import './App.css'
+import { BrowserRouter,Routes, Route } from 'react-router-dom'
+import Home from './Home'
+
 
 function App() {
   // const [count, setCount] = useState(0)
 
   return (
-    <>
-      
-
-      <div className="text-center p-10 bg-blue-500 text-white">
-      <h1 className="text-4xl font-bold">Hello Tailwind + React!</h1>
-    </div>
-    </>
+   <BrowserRouter>
+     <Routes>
+      <Route path='/' element={<Home/>}></Route>
+     </Routes>
+   </BrowserRouter>
   )
 }
 
