@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Abdel Ilah Essemlali",
+      "username": "abdoesse",
+      "email": "abdo@example.com",
+      "phone": "+212-600-123456",
+      "website": "abdo.dev"
+    },
+    {
+      "id": 2,
+      "name": "Sara Benali",
+      "username": "saraben",
+      "email": "sara@example.com",
+      "phone": "+212-601-654321",
+      "website": "saraweb.com"
+    },
+    {
+      "id": 3,
+      "name": "Yassine El Amrani",
+      "username": "yassinea",
+      "email": "yassine@example.com",
+      "phone": "+212-602-789123",
+      "website": "yassine.io"
+    },
+    {
+      "id": 4,
+      "name": "Fatima Zahra Idrissi",
+      "username": "fatidris",
+      "email": "fatima@example.com",
+      "phone": "+212-603-456789",
+      "website": "fatidev.ma"
+    },
+    {
+      "id": 5,
+      "name": "Omar Bennis",
+      "username": "omben",
+      "email": "omar@example.com",
+      "phone": "+212-604-321654",
+      "website": "omar.tech"
+    }
+  ]
